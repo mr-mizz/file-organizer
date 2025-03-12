@@ -15,8 +15,11 @@ A simple Python script that automatically organizes files in a directory into ca
 Run the script:
 
 python organizer.py
+
 Enter the directory path you want to organize.
+
 The script will automatically move files into categorized subfolders.
+
 📂 Example Output
 
 📂 Downloads/
