@@ -36,9 +36,9 @@ The script will automatically move files into categorized subfolders.
    
 🖥 Requirements
 
-Python 3.x installed
-
+Python 3.x installed:
 No additional dependencies required
 
 📜 License
+
 This project is open-source and free to use.
