@@ -22,7 +22,8 @@ The script will automatically move files into categorized subfolders.
 
 📂 Example Output
 
-📂 Downloads/
+   ├── 📂 Downloads/
+   
    ├── 📁 Documents/
    
    ├── 📁 Images/
