@@ -13,15 +13,12 @@ A simple Python script that automatically organizes files in a directory into ca
    git clone https://github.com/mr-mizz/file-organizer.git
    cd file-organizer
 Run the script:
-bash
-Copy
-Edit
+
 python organizer.py
 Enter the directory path you want to organize.
 The script will automatically move files into categorized subfolders.
 📂 Example Output
-Copy
-Edit
+
 📂 Downloads/
    ├── 📁 Documents/
    ├── 📁 Images/
