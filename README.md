@@ -24,12 +24,20 @@ The script will automatically move files into categorized subfolders.
 
 📂 Downloads/
    ├── 📁 Documents/
+   
    ├── 📁 Images/
+   
    ├── 📁 Videos/
+   
    ├── 📁 Archives/
+   
    ├── 📁 Others/
+   
 🖥 Requirements
+
 Python 3.x installed
+
 No additional dependencies required
+
 📜 License
 This project is open-source and free to use.
